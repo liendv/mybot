@@ -1,0 +1,15 @@
+Language,Key,Group
+en,goodbye for now,greetings.bye
+en,bye bye take care,greetings.bye
+en,okay see you later,greetings.bye
+en,bye for now,greetings.bye
+en,i must go,greetings.bye
+en,hello,greetings.hello
+en,hi,greetings.hello
+en,howdy,greetings.hello
+en,hey,greetings.hello
+en,convert 10 USD to SGD,currency.exchange
+en,convert 100 SGD to HKD,currency.exchange
+en,change,currency.exchange
+en,exchange,currency.exchange
+en,show top fund,dbs.fund
